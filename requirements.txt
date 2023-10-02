@@ -1,0 +1,2 @@
+matplotlib==3.4.3
+streamlit==0.90.0  # Include the Streamlit version you are using
